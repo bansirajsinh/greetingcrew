@@ -1,16 +1,2 @@
 # greetingcrew
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+GreetingCrew is a simple Flutter-based mobile application designed to showcase various greeting templates in a visually appealing grid layout. The home screen features six neatly arranged grid items, each displaying a unique template name along with an icon or image, allowing users to easily browse through options. Tapping on any grid item navigates the user to a detailed page specific to that template, making it ideal for selecting, customizing, or previewing greeting card designs. With its clean black-and-white UI theme, intuitive navigation, and reusable component structure, GreetingCrew serves as a foundation for building digital greeting card apps, celebration planners, or creative portfolio displays.
